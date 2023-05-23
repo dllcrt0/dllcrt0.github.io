@@ -94,7 +94,7 @@
       </Project>
 
       <Project title="cod-deob" href="https://github.com/dllcrt0/cod-deob" thumbnail="cod-deob.webp">
-        Project to remote code flow obfuscation in a variety of Call of Duty titles.
+        Project to clean up code flow obfuscation in a variety of Call of Duty titles.
       </Project>
 
       <Project title="py-assembler" href="https://github.com/dllcrt0/py-assembler" thumbnail="py-assembler.webp">
